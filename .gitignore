@@ -161,4 +161,5 @@ cython_debug/
 
 check.py
 temp.py
-unit4/whisper-small-finetuned-gtzan
+unit4/whisper*
+unit5/whisper*
