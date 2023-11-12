@@ -163,3 +163,5 @@ check.py
 temp.py
 unit4/whisper*
 unit5/whisper*
+unit6/mlruns
+unit6/speecht5_finetuned_voxpopuli_pl
